@@ -38,21 +38,19 @@ Building scalable applications and automation systems using Python (AI & models)
 ---
 
 ## 🛠️ Tech Stack
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,express,django,flask,docker,postgres,mongodb,git,linux,tensorflow,cs,java,figma,sass,notion,flutter,php" />
-<img src="https://cdn.simpleicons.org/mariadb" width="40"/>
-<img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="40"/>
-<img src="https://skillicons.dev/icons?i=anaconda" width="40"/>
-<img src="https://cdn.simpleicons.org/huggingface" width="40"/>
-<img src="https://skillicons.dev/icons?i=blender" width="40"/>
-<img src="https://skillicons.dev/icons?i=photoshop" width="40"/>
-<img src="https://skillicons.dev/icons?i=illustrator" width="40"/>
-<img src="https://skillicons.dev/icons?i=xd" width="40"/>
-<img src="https://cdn.simpleicons.org/zapier/FF4A00" width="40"/>
-<img src="https://cdn.simpleicons.org/dotnet/512BD4" width="40"/>
-<img src="https://cdn.simpleicons.org/ollama/000000" width="40"/>
-<img src="https://cdn.simpleicons.org/odoo/714B67" width="40"/>
-<img src="https://skillicons.dev/icons?i=unreal" width="40"/>
+<img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,express,django,flask,docker,postgres,mongodb,git,linux,tensorflow,cs,java,figma,sass,notion,flutter,php,anaconda,blender,photoshop,illustrator,xd,unreal" />
+</p>
+
+<p align="center">
+<img src="https://cdn.simpleicons.org/mariadb" width="48"/>
+<img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="48"/>
+<img src="https://cdn.simpleicons.org/huggingface" width="48"/>
+<img src="https://cdn.simpleicons.org/zapier/FF4A00" width="48"/>
+<img src="https://cdn.simpleicons.org/dotnet/512BD4" width="48"/>
+<img src="https://cdn.simpleicons.org/ollama/000000" width="48"/>
+<img src="https://cdn.simpleicons.org/odoo/714B67" width="48"/>
 </p>
 
 ---
