@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hossam EL Hendawy</h1>
 
 <h3 align="center">
-Full-Stack Developer | Automation Engineer
+Full-Stack Developer | Automation Specialist
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Automation+Engineer;AI+%26+Python+Enthusiast;Building+Smart+Systems+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Automation+Specialist;AI+%26+Python+Developer;Building+Smart+Systems+🚀" />
 </p>
 
 <p align="center">
