@@ -27,6 +27,12 @@ Building scalable applications and automation systems using Python (AI & models)
 <a href="mailto:hossamelhendawi123@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
 </a>
+<a href="https://www.researchgate.net/profile/Hossam-Hassan-68?ev=hdr_xprf" target="_blank">
+<img src="https://cdn.simpleicons.org/researchgate/00CCBB" width="40"/>
+</a>
+<a href="https://www.credly.com/users/hossam-el-hendawi" target="_blank">
+<img src="https://cdn.simpleicons.org/credly/FF6B00" width="40"/>
+</a>
 </p>
 
 ---
@@ -34,6 +40,9 @@ Building scalable applications and automation systems using Python (AI & models)
 ## 🛠️ Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,express,django,flask,docker,postgres,mongodb,git,linux,tensorflow" />
+<br/>
+<img src="https://cdn.simpleicons.org/ollama/000000" width="40"/>
+<img src="https://cdn.simpleicons.org/odoo/714B67" width="40"/>
 </p>
 
 ---
