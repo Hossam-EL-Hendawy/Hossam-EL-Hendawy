@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hossam EL Hendawy</h1>
-<h3 align="center">Full-Stack Developer | Automation Specialist</h3>
+<h3 align="center">Full-Stack Developer | Automation Engineer</h3>
 
 <p align="center">
 Building scalable applications and automation systems using Python (AI & models) and JavaScript/TypeScript for modern web interfaces.
@@ -52,6 +52,50 @@ Building scalable applications and automation systems using Python (AI & models)
 <img src="https://cdn.simpleicons.org/ollama/000000" width="48"/>
 <img src="https://cdn.simpleicons.org/odoo/714B67" width="48"/>
 </p>
+
+---
+
+## 🧠 Patent / Innovation Project
+
+<details>
+  <summary><b>Go-Alpha — AI-powered Metaverse & AIS project</b></summary>
+  <br/>
+
+  <p>
+    <a href="https://github.com/GoAlphaa/Go-Alpha" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=GoAlphaa&repo=Go-Alpha&theme=tokyonight" />
+    </a>
+  </p>
+
+  <b>Overview</b>
+  <br/>
+  Go-Alpha is an interactive project focused on applying Generative AI within the Metaverse and Accounting Information Systems (AIS), exploring how immersive environments can support accounting workflows, reporting, questionnaires, and data-driven insights.
+
+  <br/><br/>
+
+  <b>Tech breakdown</b>
+  <br/>
+  - JavaScript — 48.5%  
+  - HTML — 30.0%  
+  - CSS — 21.5%
+
+  <br/><br/>
+
+  <b>Highlights</b>
+  <br/>
+  - Explores Generative AI use cases in Metaverse environments
+  - Connects immersive experiences with Accounting Information Systems
+  - Demonstrates web-based implementation using frontend technologies
+  - Includes practical prompts and accounting-focused scenarios
+
+  <br/><br/>
+
+  <b>Project Links</b>
+  <br/>
+  - Repository: <a href="https://github.com/GoAlphaa/Go-Alpha" target="_blank">Go-Alpha on GitHub</a>
+  - Live Demo: <a href="https://goalphaa.github.io/Go-Alpha/" target="_blank">View Live Project</a>
+
+</details>
 
 ---
 
