@@ -62,7 +62,6 @@ Building scalable applications and automation systems using Python (AI & models)
 **Patent Registration Year:** 2025
 
 **Overview**  
-
 Go-Alpha is an AI-powered innovation project focused on applying Generative AI within Metaverse and Accounting Information Systems (AIS), helping support workflows, reporting, and intelligent data-driven insights.
 
 **Languages Used**
@@ -86,7 +85,6 @@ Go-Alpha is an AI-powered innovation project focused on applying Generative AI w
 ## 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Hossam-EL-Hendawy&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hossam-EL-Hendawy&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
