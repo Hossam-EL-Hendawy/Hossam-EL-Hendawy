@@ -57,39 +57,28 @@ Building scalable applications and automation systems using Python (AI & models)
 
 ## 🧠 Patent / Innovation Project
 
-<details open>
-  <summary><b>Go-Alpha — AI-powered Metaverse & AIS project</b></summary>
+### Go-Alpha — AI-powered Metaverse & AIS Project
 
-  <br/>
+**Patent Registration Year:** 2025
 
-  **Patent Registration Year:** 2025
+**Overview**  
+Go-Alpha is an AI-powered innovation project focused on applying Generative AI within Metaverse and Accounting Information Systems (AIS), helping support workflows, reporting, and intelligent data-driven insights.
 
-  **Overview**  
-  Go-Alpha is an AI-powered innovation project focused on applying Generative AI within Metaverse and Accounting Information Systems (AIS), helping support workflows, reporting, and intelligent data-driven insights.
+**Languages Used**
 
-  <br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-48.5%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-30.0%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-21.5%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-  **Languages Used**
+**Highlights**
+- Explores Generative AI use cases in Metaverse environments
+- Connects immersive experiences with Accounting Information Systems
+- Demonstrates web-based implementation using frontend technologies
+- Includes practical AI-driven scenarios
 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-48.5%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML](https://img.shields.io/badge/HTML-30.0%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-21.5%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-  <br/><br/>
-
-  **Highlights**
-  - Explores Generative AI use cases in Metaverse environments
-  - Connects immersive experiences with Accounting Information Systems
-  - Demonstrates web-based implementation using frontend technologies
-  - Includes practical AI-driven scenarios
-
-  <br/>
-
-  **Project Links**
-  - Repository: [Go-Alpha on GitHub](https://github.com/GoAlphaa/Go-Alpha)
-  - Live Demo: [View Live Project](https://goalphaa.github.io/Go-Alpha/)
-
-</details>
+**Project Links**
+- Repository: [Go-Alpha on GitHub](https://github.com/GoAlphaa/Go-Alpha)
+- Live Demo: [View Live Project](https://goalphaa.github.io/Go-Alpha/)
 
 ---
 
