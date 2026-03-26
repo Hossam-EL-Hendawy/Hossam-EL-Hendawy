@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hossam EL Hendawy</h1>
-<h3 align="center">Full-Stack Developer | Automation Engineer</h3>
+<h3 align="center">Full-Stack Developer | Automation Specialist</h3>
 
 <p align="center">
 Building scalable applications and automation systems using Python (AI & models) and JavaScript/TypeScript for modern web interfaces.
