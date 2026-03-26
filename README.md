@@ -62,6 +62,7 @@ Building scalable applications and automation systems using Python (AI & models)
 **Patent Registration Year:** 2025
 
 **Overview**  
+
 Go-Alpha is an AI-powered innovation project focused on applying Generative AI within Metaverse and Accounting Information Systems (AIS), helping support workflows, reporting, and intelligent data-driven insights.
 
 **Languages Used**
