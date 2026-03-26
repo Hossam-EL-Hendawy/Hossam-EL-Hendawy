@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hossam EL Hendawy</h1>
-<h3 align="center">Full-Stack Developer | Automation Engineer</h3>
+
+<h3 align="center">
+Full-Stack Developer | Automation Engineer
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Automation+Engineer;AI+%26+Python+Enthusiast;Building+Smart+Systems+🚀" />
+</p>
 
 <p align="center">
 Building scalable applications and automation systems using Python (AI & models) and JavaScript/TypeScript for modern web interfaces.
@@ -18,19 +25,19 @@ Building scalable applications and automation systems using Python (AI & models)
 
 ## 🌐 Connect with me
 <p align="left">
-<a href="https://github.com/Hossam-EL-Hendawy" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="40" style="margin-right:10px;"/>
+<a href="https://github.com/Hossam-EL-Hendawy">
+<img src="https://skillicons.dev/icons?i=github" width="40"/>
 </a>
-<a href="https://linkedin.com/in/hossam-el-hendawy-21b194150" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="40" style="margin-right:10px;"/>
+<a href="https://linkedin.com/in/hossam-el-hendawy-21b194150">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
 <a href="mailto:hossamelhendawi123@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="40" style="margin-right:10px;"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="40"/>
 </a>
-<a href="https://www.researchgate.net/profile/Hossam-Hassan-68?ev=hdr_xprf" target="_blank">
-<img src="https://cdn.simpleicons.org/researchgate/00CCBB" width="40" style="margin-right:10px;"/>
+<a href="https://www.researchgate.net/profile/Hossam-Hassan-68?ev=hdr_xprf">
+<img src="https://cdn.simpleicons.org/researchgate/00CCBB" width="40"/>
 </a>
-<a href="https://www.credly.com/users/hossam-el-hendawi" target="_blank">
+<a href="https://www.credly.com/users/hossam-el-hendawi">
 <img src="https://cdn.simpleicons.org/credly/FF6B00" width="40"/>
 </a>
 </p>
@@ -82,11 +89,12 @@ Go-Alpha is an AI-powered innovation project focused on applying Generative AI w
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hossam-EL-Hendawy&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hossam-EL-Hendawy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Hossam-EL-Hendawy&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hossam-EL-Hendawy&theme=tokyo-night&hide_border=true&radius=16" />
 </p>
