@@ -57,43 +57,37 @@ Building scalable applications and automation systems using Python (AI & models)
 
 ## 🧠 Patent / Innovation Project
 
-<details>
+<details open>
   <summary><b>Go-Alpha — AI-powered Metaverse & AIS project</b></summary>
+
   <br/>
 
-  <p>
-    <a href="https://github.com/GoAlphaa/Go-Alpha" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=GoAlphaa&repo=Go-Alpha&theme=tokyonight" />
-    </a>
-  </p>
+  **Patent Registration Year:** 2025
 
-  <b>Overview</b>
+  **Overview**  
+  Go-Alpha is an AI-powered innovation project focused on applying Generative AI within Metaverse and Accounting Information Systems (AIS), helping support workflows, reporting, and intelligent data-driven insights.
+
   <br/>
-  Go-Alpha is an interactive project focused on applying Generative AI within the Metaverse and Accounting Information Systems (AIS), exploring how immersive environments can support accounting workflows, reporting, questionnaires, and data-driven insights.
+
+  **Languages Used**
+
+  ![JavaScript](https://img.shields.io/badge/JavaScript-48.5%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML](https://img.shields.io/badge/HTML-30.0%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-21.5%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
   <br/><br/>
 
-  <b>Tech breakdown</b>
-  <br/>
-  - JavaScript — 48.5%  
-  - HTML — 30.0%  
-  - CSS — 21.5%
-
-  <br/><br/>
-
-  <b>Highlights</b>
-  <br/>
+  **Highlights**
   - Explores Generative AI use cases in Metaverse environments
   - Connects immersive experiences with Accounting Information Systems
   - Demonstrates web-based implementation using frontend technologies
-  - Includes practical prompts and accounting-focused scenarios
+  - Includes practical AI-driven scenarios
 
-  <br/><br/>
-
-  <b>Project Links</b>
   <br/>
-  - Repository: <a href="https://github.com/GoAlphaa/Go-Alpha" target="_blank">Go-Alpha on GitHub</a>
-  - Live Demo: <a href="https://goalphaa.github.io/Go-Alpha/" target="_blank">View Live Project</a>
+
+  **Project Links**
+  - Repository: [Go-Alpha on GitHub](https://github.com/GoAlphaa/Go-Alpha)
+  - Live Demo: [View Live Project](https://goalphaa.github.io/Go-Alpha/)
 
 </details>
 
