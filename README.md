@@ -87,6 +87,6 @@ Go-Alpha is an AI-powered innovation project focused on applying Generative AI w
 <img src="https://github-readme-stats.vercel.app/api?username=Hossam-EL-Hendawy&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
+
 <img src="https://streak-stats.demolab.com?user=Hossam-EL-Hendawy&theme=tokyonight" />
 </p>
