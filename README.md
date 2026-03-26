@@ -18,7 +18,6 @@ Building scalable applications and automation systems using Python (AI & models)
 - 🔭 Building **scalable apps & automation systems**
 - 🤖 Using **Python for AI & automation (local + APIs)**
 - 🌐 Developing modern UIs with **JavaScript & TypeScript**
-- 🌱 Currently learning **System Design & Cloud**
 - ⚡ I love turning ideas into real products
 
 ---
