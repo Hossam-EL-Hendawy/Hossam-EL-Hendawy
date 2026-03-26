@@ -39,7 +39,10 @@ Building scalable applications and automation systems using Python (AI & models)
 
 ## 🛠️ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,express,django,flask,docker,postgres,mongodb,git,linux,tensorflow,cs,java,figma,sass,notion" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,express,django,flask,docker,postgres,mongodb,git,linux,tensorflow,cs,java,figma,sass,notion,flutter,php" />
+<img src="https://cdn.simpleicons.org/mariadb" width="40"/>
+<img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="40"/>
+<img src="https://skillicons.dev/icons?i=anaconda" width="40"/>
 <img src="https://cdn.simpleicons.org/huggingface" width="40"/>
 <img src="https://skillicons.dev/icons?i=blender" width="40"/>
 <img src="https://skillicons.dev/icons?i=photoshop" width="40"/>
